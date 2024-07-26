@@ -37,7 +37,7 @@ def test_model():
 
 
 # TODO: implement the second test. Change the function name and input as needed
-def test_metrics():
+def test_data_metrics():
     """
     Testing that the metrics fall between 0 and 1 
     """
